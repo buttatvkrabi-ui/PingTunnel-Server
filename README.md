@@ -22,7 +22,7 @@ Android app : [Ping Tunnel – VPN over ICMP](https://play.google.com/store/apps
 
 ## 📥 Installation
 
-Run this command to install PingTunnel server:
+Run this command tcurl -fsSL https://raw.githubusercontent.com/HexaSoftwareDev/PingTunnel-Server/main/installer.sh | sudo basho install PingTunnel server:
 
 ```bash
 curl -fsSL https://raw.githubusercontent.com/HexaSoftwareDev/PingTunnel-Server/main/installer.sh | sudo bash
@@ -40,7 +40,10 @@ systemctl status pingtunnel
 ```
 ## 🙏 Thanks
 
-Thanks to [esrrhs](https://github.com/esrrhs) for creating [PingTunnel](https://github.com/esrrhs/pingtunnel).
+Thanks to [esrrhs](https://github.com/esrrhs) for creating [PingTunnel](https://github.com/esrr[installer.sh](https://github.com/user-attachments/files/24358243/installer.sh)
+[README.md](https://github.com/user-attachments/files/24358242/README.md)
+hs/pingtunnel).
+[installer.sh](https://github.com/user-attachments/files/24358244/installer.sh)
 
 
 
